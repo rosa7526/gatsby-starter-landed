@@ -6,11 +6,11 @@ const Banner = props => (
   <section id="banner">
     <div className="content">
       <header>
-        <h2>The future has landed</h2>
+        <h2>Rosa Lin</h2>
         <p>
-          And there are no hoverboards or flying cars.
+          Born in Taiwan ,Tainan in 1994.
           <br />
-          Just apps. Lots of mother flipping apps.
+          Moved to Osaka, Japan in 2019.<br /> And keep going on her career as a designer
         </p>
       </header>
       <span className="image">
