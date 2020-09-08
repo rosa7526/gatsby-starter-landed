@@ -6,16 +6,15 @@ const Four = props => (
     <section id="four" className="wrapper style1 special fade-up">
       <div className="container">
         <header className="major">
-          <h2>Accumsan sed tempus adipiscing blandit</h2>
+          <h2>Design Skills</h2>
           <p>
-            Iaculis ac volutpat vis non enim gravida nisi faucibus posuere arcu
-            consequat
+            Stay hungry,stay foolish.
           </p>
         </header>
         <div className="box alt">
           <div className="row gtr-uniform">
             <section className="col-4 col-6-medium col-12-xsmall">
-              <span className="icon solid alt major fa-chart-area"></span>
+              <span className="#"></span>
               <h3>Adobe Illustrator</h3>
               <p>
                 Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit
