@@ -52,6 +52,10 @@ module.exports = {
       {
         name: 'ABOUT ME',
         link: '/elements',
+		},
+		      {
+        name: 'ABOUT ME',
+        link: '/elements',
       },
     ],
   },
