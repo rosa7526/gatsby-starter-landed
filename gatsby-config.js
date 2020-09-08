@@ -1,7 +1,7 @@
 module.exports = {
   //pathPrefix: `/mygatsby`,
   siteMetadata: {
-    title: 'Landed',
+    title: 'ROSA LIN',
     author: 'vasrush',
     description: 'A Gatsby.js V2 Starter based on Landed by HTML5 UP',
     menuLinks: [
@@ -10,7 +10,7 @@ module.exports = {
         link: '/',
       },
       {
-        name: 'Layouts',
+        name: 'WORKS',
         link: '#',
         items: [
           {
@@ -50,13 +50,8 @@ module.exports = {
         ],
       },
       {
-        name: 'Elements',
+        name: 'ABOUT ME',
         link: '/elements',
-      },
-      {
-        name: 'Sign Up',
-        link: '#',
-        cl: 'button primary',
       },
     ],
   },
