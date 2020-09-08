@@ -54,7 +54,7 @@ module.exports = {
         link: '/elements',
 		},
     { 
-      name: ' Contect me',
+      name: ' Contect ',
     link: '#',
     cl: 'button primary',
     },
