@@ -15,7 +15,7 @@ const Four = props => (
         <div className="box alt">
           <div className="row gtr-uniform">
             <section className="col-4 col-6-medium col-12-xsmall">
-              <span className="icon solid alt major fa-chart-area"><img src={adobe} alt="intro" /></span>
+              <span className="icon solid alt major fa-chart-area"><img src={adobe.png} /></span>
               <h3>Adobe Illustrator</h3>
               <p>
                 Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit
