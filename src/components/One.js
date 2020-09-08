@@ -18,7 +18,7 @@ const One = props => (
           <div className="row">
             <div className="col-4 col-12-medium">
               <header>
-                <h2>Odio faucibus ipsum integer consequat</h2>
+                <h2>As a Product Designer</h2>
                 <p>
                   Try everything!
                 </p>
