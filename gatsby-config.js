@@ -10,7 +10,7 @@ module.exports = {
         link: '/',
       },
       {
-        name: 'WORKS',
+        name: 'Works',
         link: '#',
         items: [
           {
@@ -50,13 +50,11 @@ module.exports = {
         ],
       },
       {
-        name: 'ABOUT ME',
+        name: 'About Me',
         link: '/elements',
 		},
     {
-      name: 'Sign Up',
-      link: '#',
-      cl: 'button primary',
+     
     },
     ],
   },
