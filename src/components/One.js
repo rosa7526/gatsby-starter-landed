@@ -20,7 +20,7 @@ const One = props => (
               <header>
                 <h2>Odio faucibus ipsum integer consequat</h2>
                 <p>
-                  Nascetur eu nibh vestibulum amet gravida nascetur praesent
+                  Try everything!
                 </p>
               </header>
             </div>
