@@ -2898,7 +2898,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #e44c65;
+			background-color: #0f434d;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2914,7 +2914,7 @@ input, select, textarea {
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #e13652;
+				background-color: #04323d;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
