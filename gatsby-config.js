@@ -53,8 +53,10 @@ module.exports = {
         name: 'About Me',
         link: '/elements',
 		},
-    {
-     
+    { 
+      name: ' Contect me',
+    link: '#',
+    cl: 'button primary',
     },
     ],
   },
