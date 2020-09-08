@@ -14,16 +14,12 @@ const Four = props => (
         <div className="box alt">
           <div className="row gtr-uniform">
             <section className="col-4 col-6-medium col-12-xsmall">
-            <section className="col-4 col-6-xsmall">
-            <span className="image fit">
-                  <img src={pic02} alt="" />
-                </span>
+            <span className="icon solid alt major fa-comment"></span>
               <h3>Adobe Illustrator</h3>
               <p>
                 Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit
                 orci porttitor.
               </p>
-              </section>
             </section>
             <section className="col-4 col-6-medium col-12-xsmall">
               <span className="icon solid alt major fa-comment"></span>
