@@ -14,19 +14,20 @@ module.exports = {
         link: '#',
         items: [
           {
-            name: 'Left Sidebar',
+            name: 'PRODUCT DESIGN',
             link: '/left-sidebar',
           },
           {
-            name: 'Right Sidebar',
+            name: 'GRAPHIC DESIGN',
             link: '/right-sidebar',
           },
           {
-            name: 'No Sidebar',
+            name: 'EXHIBITION DESIGN',
             link: '/no-sidebar',
+
           },
           {
-            name: 'SubMenu',
+            name: 'THESIS PUBLICATION',
             link: '#',
             items: [
               {
