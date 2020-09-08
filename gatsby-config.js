@@ -55,7 +55,7 @@ module.exports = {
 		},
     { 
       name: ' Contect ',
-    link: '#',
+      cl: '#',
     link: '/elements',
     },
     ],
