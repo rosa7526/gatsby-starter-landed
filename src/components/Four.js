@@ -8,13 +8,15 @@ const Four = props => (
         <header className="major">
           <h2>Design Skills</h2>
           <p>
-            Stay hungry,stay foolish.
+            Stay hungry , stay foolish.
           </p>
         </header>
         <div className="box alt">
           <div className="row gtr-uniform">
             <section className="col-4 col-6-medium col-12-xsmall">
-              <span className="#"></span>
+            <span className="image fit">
+                  <img src={pic02} alt="" />
+                </span>
               <h3>Adobe Illustrator</h3>
               <p>
                 Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit
