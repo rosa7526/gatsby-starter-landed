@@ -27,6 +27,11 @@ module.exports = {
 
           },
           {
+            name: 'EXHIBITION DESIGN',
+            link: '/no-sidebar',
+
+          },
+          {
             name: 'THESIS PUBLICATION',
             link: '#',
             items: [
