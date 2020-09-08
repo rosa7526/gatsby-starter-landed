@@ -10,7 +10,7 @@ const Banner = props => (
         <p>
           Born in Taiwan ,Tainan in 1994.
           <br />
-          Moved to Osaka, Japan in 2019.<br /> And keep going on her career as a designer
+          Moved to Osaka, Japan in 2019.<br />Keep going on her career as a designer.
         </p>
       </header>
       <span className="image">
